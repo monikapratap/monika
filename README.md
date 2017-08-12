@@ -4,3 +4,4 @@ build trigger2
 hello
 hello
 hello
+bnn,
